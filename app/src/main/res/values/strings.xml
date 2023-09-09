@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Course Application</string>
+    <string name="course1">Photography</string>
+    <string name="course2">Design</string>
+    <string name="course3">Film</string>
+    <string name="course4">Gaming</string>
+    <string name="course5">Drawing</string>
+    <string name="course6">LifeStyle</string>
+    <string name="course7">Music</string>
+    <string name="course8">Tech</string>
+</resources>
